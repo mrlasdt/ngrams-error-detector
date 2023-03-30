@@ -1,0 +1,60 @@
+5e-6 5 samples
+              precision    recall  f1-score   support
+
+           0       0.92      0.88      0.90        52
+           1       0.65      0.73      0.69        15
+
+    accuracy                           0.85        67
+   macro avg       0.78      0.81      0.79        67
+weighted avg       0.86      0.85      0.85        67
+
+1e-6
+              precision    recall  f1-score   support
+
+           0       0.93      0.98      0.95        53
+           1       0.91      0.71      0.80        14
+
+    accuracy                           0.93        67
+   macro avg       0.92      0.85      0.88        67
+weighted avg       0.92      0.93      0.92        67
+
+3e-6
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92        52
+           1       0.73      0.73      0.73        15
+
+    accuracy                           0.88        67
+   macro avg       0.83      0.83      0.83        67
+weighted avg       0.88      0.88      0.88        67
+
+1e-6 50 samples
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94       572
+           1       0.85      0.76      0.80       192
+
+    accuracy                           0.91       764
+   macro avg       0.89      0.86      0.87       764
+weighted avg       0.90      0.91      0.90       764
+
+1e-6 100 samples
+             precision    recall  f1-score   support
+
+           0       0.91      0.95      0.93      1155
+           1       0.84      0.72      0.78       384
+
+    accuracy                           0.90      1539
+   macro avg       0.88      0.84      0.86      1539
+weighted avg       0.89      0.90      0.89      1539
+
+
+1e-4 10000 samples enhance mode
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.94    126321
+           1       0.78      0.82      0.80     34841
+
+    accuracy                           0.91    161162
+   macro avg       0.86      0.88      0.87    161162
+weighted avg       0.91      0.91      0.91    161162
